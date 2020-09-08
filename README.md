@@ -1,2 +1,3 @@
 # Widgets-for-JupyterNB
-this repo contains useful widgets/tools for jupyter notebook
+
+This repo contains useful widgets/tools for jupyter notebook
